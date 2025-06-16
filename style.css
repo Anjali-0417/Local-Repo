@@ -1,5 +1,5 @@
 p {
-    color: cornflowerblue;
+    color: papayawhip;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    color: #3366cc;
+    color: red;
     text-align: center;
 }
 
@@ -18,8 +18,8 @@ p {
 }
 
 .button {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #614caf;
+    color: rgb(37, 36, 36);
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -27,5 +27,5 @@ p {
 }
 
 .button:hover {
-    background-color: #45a049;
+    background-color: #67a0e2;
 }
